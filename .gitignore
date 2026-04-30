@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+
+# Frontend
+node_modules/
+dist/
+dist-ssr/
+.vite/
+
+# Backend (Python)
+__pycache__/
+*.pyc
+
+# Env
+.env
+.env.*
+
+# Wrangler
+.wrangler/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
